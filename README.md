@@ -25,6 +25,7 @@
 - Провёл **SEO-оптимизацию**, подняв рейтинг сайта с **50 до 94+ баллов** (PR-CY)
 
 *Проекты:*
+-  [I-sol](https://i-sol.ru/ru)
 -  [SmartDocs](https://smartdocs.i-sol.ru/media/ru)
 -  [PlanGR](https://plangr.i-sol.ru/)
 -  [Arbitoring](https://arbitoring.com/ru)
