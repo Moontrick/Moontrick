@@ -29,6 +29,7 @@
 -  [SmartDocs](https://smartdocs.i-sol.ru/media/ru)
 -  [PlanGR](https://plangr.i-sol.ru/)
 -  [Arbitoring](https://arbitoring.com/ru)
+-  [MiniApp](https://everydayapp.work/en)
 -  [Расширение Drawing Online](https://chromewebstore.google.com/detail/drawing-online/pdokhmldlccplfhhekeconkblhkmiold)
 -  [Расширение Text Remover](https://chromewebstore.google.com/detail/delete-text-from-image/mdgaedbildmelnjjmpcmnjkhmgeicdlo)
   
