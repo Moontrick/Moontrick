@@ -31,7 +31,7 @@
 -  [Arbitoring](https://arbitoring.com/ru)
 -  [Расширение Drawing Online](https://chromewebstore.google.com/detail/drawing-online/pdokhmldlccplfhhekeconkblhkmiold)
 -  [Расширение Text Remover](https://chromewebstore.google.com/detail/delete-text-from-image/mdgaedbildmelnjjmpcmnjkhmgeicdlo)
--  
+  
 ## 🏆 Достижения
 - Патент №2023682485, 2023682484 – программа для анализа состояния стоп с использованием нейросетей
 - Успешно реализовал проект как коробочное решение (микрофронтенды)
